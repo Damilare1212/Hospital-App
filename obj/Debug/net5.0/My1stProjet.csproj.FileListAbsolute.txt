@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\My1stProjet\bin\Debug\net5.0\My1stProjet.exe
+C:\Users\USER\Documents\My1stProjet\bin\Debug\net5.0\My1stProjet.deps.json
+C:\Users\USER\Documents\My1stProjet\bin\Debug\net5.0\My1stProjet.runtimeconfig.json
+C:\Users\USER\Documents\My1stProjet\bin\Debug\net5.0\My1stProjet.runtimeconfig.dev.json
+C:\Users\USER\Documents\My1stProjet\bin\Debug\net5.0\My1stProjet.dll
+C:\Users\USER\Documents\My1stProjet\bin\Debug\net5.0\ref\My1stProjet.dll
+C:\Users\USER\Documents\My1stProjet\bin\Debug\net5.0\My1stProjet.pdb
+C:\Users\USER\Documents\My1stProjet\obj\Debug\net5.0\My1stProjet.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\My1stProjet\obj\Debug\net5.0\My1stProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\My1stProjet\obj\Debug\net5.0\My1stProjet.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\My1stProjet\obj\Debug\net5.0\My1stProjet.AssemblyInfo.cs
+C:\Users\USER\Documents\My1stProjet\obj\Debug\net5.0\My1stProjet.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\My1stProjet\obj\Debug\net5.0\My1stProjet.dll
+C:\Users\USER\Documents\My1stProjet\obj\Debug\net5.0\ref\My1stProjet.dll
+C:\Users\USER\Documents\My1stProjet\obj\Debug\net5.0\My1stProjet.pdb
+C:\Users\USER\Documents\My1stProjet\obj\Debug\net5.0\My1stProjet.genruntimeconfig.cache
